@@ -1,0 +1,47 @@
+
+.cartoes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cartao {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px; /* Aumenta o espaço entre os cartões */
+  width: calc(25% - 40px); /* Ajusta a largura dos cartões com o novo espaço entre eles */
+  max-width: 300px;
+}
+
+.cartao img {
+  width: 100%; /* Garante que a imagem preencha todo o espaço disponível no cartão */
+  border-radius: 5px; /* Adiciona borda arredondada à imagem */
+  margin-bottom: 10px; /* Espaço entre a imagem e o conteúdo */
+}
+
+.cartao h3 {
+  margin-top: 0;
+  background: linear-gradient(to right, #ff8a00, #e52e71);
+  -webkit-text-fill-color: transparent;
+}
+
+.cartao p {
+  margin-top: 10px;
+}
+
+.cartao button {
+  background-color: #ff8a00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cartao button:hover {
+  background-color: #e52e71;
+}
+
+

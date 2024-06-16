@@ -1,0 +1,65 @@
+input[type='text'],
+    input[type='password'],
+    input[type='email'],
+    button {
+      display: block;
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 10px;
+    }
+
+    .btn {
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .btn-dark:hover {
+      background: rgba(50, 50, 50, 0.751);
+      transition: 2ms;
+    }
+
+    .btn-danger:hover {
+      background: rgb(94, 0, 0)!important;
+      border: 1px solid;
+      color: rgb(255, 0, 0);
+      transition: 2ms;
+    }
+
+    .gradient-text {
+      background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(139,0,0,1) 100%);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .TextKarapinha {
+      position: relative;
+      top: 10px;
+    }
+
+    .TextKarapinha span {
+      font-weight: bold;
+    }
+
+    img {
+      width: auto;
+      height: 250px;
+    }
+
+    .card {
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .botoes{
+      padding: 3px;
+      display: inline-block;
+      justify-content: space-between;
+    }
+
+    .botoesSubmit{
+      display: flex;
+      justify-content: space-between;
+    }

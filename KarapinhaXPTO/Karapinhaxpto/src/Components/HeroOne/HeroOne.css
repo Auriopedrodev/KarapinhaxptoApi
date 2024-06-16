@@ -1,0 +1,57 @@
+.Textos{
+  position: relative;
+  right: 4%;
+  top: 350px;
+}
+
+section {
+  display: inline-block;
+  width: 50%;
+  height: 100vh;
+}
+
+.imagem-home img {
+  width: 400px;
+  height: auto;
+  position: relative;
+  left: 30px;
+  top: 200px;
+  border-radius: 5px solid;
+}
+
+.imagem-home {
+  text-align: center;
+  margin-top: 20px;
+  position: relative;
+  bottom: 150px;
+}
+
+.imagem-home section {
+  position: relative;
+}
+
+.imagem-home h3 {
+  position: relative;
+  bottom: 15px;
+  right: 50%; /* Ajuste a posição para a direita */
+  transform: translateX(50%);
+  font-size: 55px;
+  color: #fff;
+  background: linear-gradient(to right, #ff8a00, #e52e71);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+
+h2{
+  position: relative;
+  bottom: 10px;
+}
+
+.imagem-home p {
+  font-size: 24px;
+  position: relative;
+  bottom: 20px;
+  right: 20px; /* Ajuste a posição para a direita */
+}
