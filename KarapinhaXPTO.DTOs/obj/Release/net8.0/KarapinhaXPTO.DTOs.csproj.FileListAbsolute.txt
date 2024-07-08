@@ -1,0 +1,11 @@
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\bin\Release\net8.0\KarapinhaXPTO.DTOs.deps.json
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\bin\Release\net8.0\KarapinhaXPTO.DTOs.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\bin\Release\net8.0\KarapinhaXPTO.DTOs.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\KarapinhaXPTO.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\KarapinhaXPTO.DTOs.AssemblyInfoInputs.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\KarapinhaXPTO.DTOs.AssemblyInfo.cs
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\KarapinhaXPTO.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\KarapinhaXPTO.DTOs.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\refint\KarapinhaXPTO.DTOs.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\KarapinhaXPTO.DTOs.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Release\net8.0\ref\KarapinhaXPTO.DTOs.dll

@@ -1,0 +1,17 @@
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.Shared.deps.json
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.Shared.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.Shared.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.AssemblyInfoInputs.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.AssemblyInfo.cs
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\refint\KarapinhaXPTO.Shared.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\ref\KarapinhaXPTO.Shared.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.DTOs.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.Model.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.DTOs.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\bin\Debug\net8.0\KarapinhaXPTO.Model.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\KarapinhaXPTO.Shared.csproj.AssemblyReference.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Shared\obj\Debug\net8.0\Karapinh.C3A940BD.Up2Date

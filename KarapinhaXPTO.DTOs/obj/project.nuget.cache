@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdWiUuvmOQa0iaS7Ub5umz7jPPlj2IhrmeMprH6wHqL77a/OLEBZsoy9zuACoo18YZAqfSWX9Wc+MGBBzS/dqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aurio\\source\\repos\\KarapinhaXPTO.Api\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aurio\\.nuget\\packages\\servicestack.interfaces\\8.2.2\\servicestack.interfaces.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
