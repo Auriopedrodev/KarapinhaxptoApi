@@ -1,0 +1,36 @@
+.conteudoPrincipal{
+    position: relative;
+    right: 2px;
+    width: 1200px;
+    height: 400px;
+    background-color: rgb(237, 237, 237);
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.img-circle {
+    width: 350px; /* Defina o tamanho desejado */
+    height: 350px; /* Igual à largura para manter um círculo */
+    object-fit: cover; /* Para manter a proporção da imagem */
+    border-radius: 50%; /* Bordas arredondadas para formar um círculo */
+    border: 2px solid #212529;
+    position: relative;
+    left: 60px;
+  }
+
+  .conteudoINFO{
+    font-size: 18px;
+    position: relative;
+    right: 50px;
+    bottom: 15px;
+  }
+
+  .ursername {
+    font-size: 45px;
+    font-weight: bold;
+  }
+
+  h1{
+    position: relative;
+    top: 20px;
+  }
