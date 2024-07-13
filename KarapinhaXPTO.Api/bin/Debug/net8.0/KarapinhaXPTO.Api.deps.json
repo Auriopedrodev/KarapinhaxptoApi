@@ -993,6 +993,7 @@
       },
       "KarapinhaXPTO.Services/1.0.0": {
         "dependencies": {
+          "KarapinhaXPTO.DAL": "1.0.0",
           "KarapinhaXPTO.DTOs": "1.0.0",
           "KarapinhaXPTO.Model": "1.0.0",
           "KarapinhaXPTO.Shared": "1.0.0",

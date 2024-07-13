@@ -37,9 +37,9 @@ namespace KarapinhaXPTO.Api.Controllers
 
         [HttpPost]
         [Route("/CriarProfissional")]
-        public async Task<IActionResult> Create([FromForm]ProfissionalAddDTO profissionalAddDTO)
+        public async Task<IActionResult> Create([FromForm]ProfissionalAddDTO profissionalAddDTO, IFormFile foto)
         {
-            return Ok(await _profissionalService.Create(profissionalAddDTO));
+            return Ok(await _profissionalService.Create(profissionalAddDTO, foto));
         }
 
         [HttpPut]

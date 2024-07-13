@@ -98,7 +98,7 @@ namespace KarapinhaXPTO.DAL.Migrations
                     b.Property<DateTime>("Hora")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("MarcacaoId")
+                    b.Property<int?>("MarcacaoId")
                         .HasColumnType("int");
 
                     b.Property<int>("ProfissionalId")
@@ -283,11 +283,9 @@ namespace KarapinhaXPTO.DAL.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("KarapinhaXPTOContext.Model.Marcacao", "Marcacao")
-                        .WithMany()
-                        .HasForeignKey("MarcacaoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.HasOne("KarapinhaXPTOContext.Model.Marcacao", null)
+                        .WithMany("ListaMarcacaoServico")
+                        .HasForeignKey("MarcacaoId");
 
                     b.HasOne("KarapinhaXPTOContext.Model.Profissional", "Profissional")
                         .WithMany()
@@ -302,8 +300,6 @@ namespace KarapinhaXPTO.DAL.Migrations
                         .IsRequired();
 
                     b.Navigation("Categoria");
-
-                    b.Navigation("Marcacao");
 
                     b.Navigation("Profissional");
 
@@ -330,7 +326,7 @@ namespace KarapinhaXPTO.DAL.Migrations
                         .IsRequired();
 
                     b.HasOne("KarapinhaXPTOContext.Model.Profissional", "Profissional")
-                        .WithMany()
+                        .WithMany("HorariosProfissional")
                         .HasForeignKey("ProfissionalId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -358,6 +354,16 @@ namespace KarapinhaXPTO.DAL.Migrations
                         .HasForeignKey("PerfilId");
 
                     b.Navigation("Perfil");
+                });
+
+            modelBuilder.Entity("KarapinhaXPTOContext.Model.Marcacao", b =>
+                {
+                    b.Navigation("ListaMarcacaoServico");
+                });
+
+            modelBuilder.Entity("KarapinhaXPTOContext.Model.Profissional", b =>
+                {
+                    b.Navigation("HorariosProfissional");
                 });
 #pragma warning restore 612, 618
         }

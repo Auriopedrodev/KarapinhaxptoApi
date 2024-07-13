@@ -13,3 +13,4 @@ C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\bin\Debug\net8.
 C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\bin\Debug\net8.0\KarapinhaXPTO.Model.pdb
 C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Debug\net8.0\KarapinhaXPTO.DTOs.csproj.AssemblyReference.cache
 C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Debug\net8.0\Karapinh.85F10E1B.Up2Date
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DTOs\obj\Debug\net8.0\KarapinhaXPTO.DTOs.sourcelink.json

@@ -21,10 +21,7 @@ namespace KarapinhaXPTOContext.Model
         public int ProfissionalId { get; set; }
         [ForeignKey(nameof(ProfissionalId))]
         public Profissional Profissional{ get; set; }
-        public int MarcacaoId { get; set; }
-        [ForeignKey(nameof(MarcacaoId))]
-        public Marcacao Marcacao { get; set; }
-        public DateTime DataMarcacaoServico { get; set; }
+        public DateTime  DataMarcacaoServico { get; set; }
         public DateTime Hora { get; set; }
     }
 }

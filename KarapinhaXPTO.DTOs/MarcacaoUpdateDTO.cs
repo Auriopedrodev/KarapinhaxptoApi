@@ -13,6 +13,7 @@ namespace KarapinhaXPTO.DTOs
         public double Pagamento { get; set; }
         public bool EstadoMarcacao { get; set; }
         public int? UtilizadorId { get; set; }
+        
 
     }
 }

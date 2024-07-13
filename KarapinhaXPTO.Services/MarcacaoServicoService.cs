@@ -27,7 +27,7 @@ namespace KarapinhaXPTO.Services
                     ServicoId = marcacaoServicoAddDTO.ServicoId,
                     CategoriaId = marcacaoServicoAddDTO.CategoriaId,
                     ProfissionalId = marcacaoServicoAddDTO.ProfissionalId,
-                    MarcacaoId = marcacaoServicoAddDTO.MarcacaoId,
+                    
                     DataMarcacaoServico = marcacaoServicoAddDTO.DataMarcacaoServico,
                     Hora = marcacaoServicoAddDTO.Hora,
 
@@ -60,7 +60,7 @@ namespace KarapinhaXPTO.Services
 
                     marcacaoServico.ServicoId = marcacaoServicoUpdateDTO.ServicoId;
                     marcacaoServico.ProfissionalId = marcacaoServicoUpdateDTO.ProfissionalId;
-                    marcacaoServico.MarcacaoId = marcacaoServicoUpdateDTO.MarcacaoId;
+                    ;
                     marcacaoServico.DataMarcacaoServico = marcacaoServicoUpdateDTO.DataMarcacaoServico;
                     return await _marcacaoServicoRepository.Update(marcacaoServico);
                 }

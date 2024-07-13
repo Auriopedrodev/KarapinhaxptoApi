@@ -19,3 +19,4 @@ C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DAL\bin\Debug\net8.0
 C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DAL\bin\Debug\net8.0\KarapinhaXPTO.DTOs.dll
 C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DAL\bin\Debug\net8.0\KarapinhaXPTO.Shared.pdb
 C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DAL\bin\Debug\net8.0\KarapinhaXPTO.DTOs.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.DAL\obj\Debug\net8.0\KarapinhaXPTO.DAL.sourcelink.json

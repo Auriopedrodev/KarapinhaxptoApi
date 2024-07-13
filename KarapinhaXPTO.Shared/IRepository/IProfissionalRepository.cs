@@ -10,6 +10,6 @@ namespace KarapinhaXPTO.Shared.IRepository
 {
     public interface IProfissionalRepository : IGenericRepository<Profissional>
     {
-
+        
     }
 }

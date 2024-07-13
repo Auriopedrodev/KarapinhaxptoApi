@@ -361,6 +361,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\aurio\\source\\repos\\KarapinhaXPTO.Api\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj": {
+                "projectPath": "C:\\Users\\aurio\\source\\repos\\KarapinhaXPTO.Api\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj"
+              },
               "C:\\Users\\aurio\\source\\repos\\KarapinhaXPTO.Api\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj": {
                 "projectPath": "C:\\Users\\aurio\\source\\repos\\KarapinhaXPTO.Api\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj"
               },

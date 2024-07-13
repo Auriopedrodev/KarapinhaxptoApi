@@ -18,6 +18,7 @@ namespace KarapinhaXPTOContext.Model
         public int? UtilizadorId { get; set; }
         [ForeignKey(nameof(UtilizadorId))]
         public Utilizador? Utilizador { set; get; }
+        public List <MarcacaoServico> ListaMarcacaoServico { get; set;}
         
     }
 }

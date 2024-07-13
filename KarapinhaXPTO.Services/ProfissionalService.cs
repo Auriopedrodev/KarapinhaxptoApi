@@ -2,6 +2,7 @@
 using KarapinhaXPTO.Shared.IRepository;
 using KarapinhaXPTO.Shared.Iservice;
 using KarapinhaXPTOContext.Model;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,25 +25,42 @@ namespace KarapinhaXPTO.Services
         }
 
 
-        public async Task<Profissional> Create(ProfissionalAddDTO profissionalAddDTO)
+        public async Task<Profissional> Create(ProfissionalAddDTO profissionalAddDTO, IFormFile foto)
         {
+            //Pegar o caminho da foto
+            string fotoPath = null;
+
+            if (foto != null)
+            {
+                var uploadsFolder = Path.Combine("wwwroot", "uploads");
+                if (!Directory.Exists(uploadsFolder))
+                {
+                    Directory.CreateDirectory(uploadsFolder);
+                }
+                fotoPath = Path.Combine(uploadsFolder, Guid.NewGuid() + Path.GetExtension(foto.FileName));
+                using (var fileStream = new FileStream(fotoPath, FileMode.Create))
+                {
+                    await foto.CopyToAsync(fileStream);
+                }
+                fotoPath = "/" + fotoPath.Replace("wwwroot\\", string.Empty).Replace("\\", "/");
+            }
+
             // Adiciona o profissional
             var profissional = new Profissional
             {
-                
+
                 NomeCompleto = profissionalAddDTO.NomeCompleto,
                 Email = profissionalAddDTO.Email,
                 BI = profissionalAddDTO.BI,
                 Telefone = profissionalAddDTO.Telefone,
                 Foto = profissionalAddDTO.Foto,
-                CategoriaId = profissionalAddDTO.CategoriaId,
-                
+                CategoriaId = profissionalAddDTO.CategoriaId
             };
 
             await _profissionalRepository.Create(profissional);
 
             // Adiciona os horários ao profissional
-            foreach (var idHorario in profissionalAddDTO.Horarios)
+            foreach (var idHorario in profissionalAddDTO.HorariosProfissional)
             {
                 var horario = await _horarioRepository.GetById(idHorario);
                 if (horario == null)
@@ -124,5 +142,7 @@ namespace KarapinhaXPTO.Services
             }
             return false;
         }
+
+        
     }
 }

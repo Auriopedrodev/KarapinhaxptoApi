@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KarapinhaXPTO.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed18a77747707e0055bb7eccb4acfeb5f495673")]
 [assembly: System.Reflection.AssemblyProductAttribute("KarapinhaXPTO.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KarapinhaXPTO.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

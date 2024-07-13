@@ -45,6 +45,13 @@ namespace KarapinhaXPTO.Api.Controllers
         {
             return Ok(await _marcacaoService.Update(marcacaoUpdateDTO));
         }
+
+        [HttpGet("top5-profissionais")]
+        public async Task<IActionResult> GetTop5ProfissionaisComMaisMarcacoes()
+        {
+            var top5Profissionais = await _marcacaoService.GetTop5ProfissionaisComMaisMarcacoes();
+            return Ok(top5Profissionais);
+        }
     }
 }
 

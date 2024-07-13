@@ -15,5 +15,6 @@ namespace KarapinhaXPTO.Shared.Iservice
         Task<bool> Update(MarcacaoUpdateDTO marcacaoUpdateDTO);
         Task<Marcacao> Create(MarcacaoAddDTO marcacaoAddDTO);
         Task<bool> Delete(int id);
+        Task<List<Get5Profissionais>> GetTop5ProfissionaisComMaisMarcacoes();
     }
 }

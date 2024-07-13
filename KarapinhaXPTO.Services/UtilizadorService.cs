@@ -156,7 +156,15 @@ namespace KarapinhaXPTO.Services
             {
                 return false;
             }
-            utilizador.Activar = true;
+
+            if(utilizador.EstadoUtilizador== true)
+            {
+                utilizador.Activar = false;
+            }else 
+            {
+                utilizador.Activar=true;
+            }
+            
             return await _utilizadorRepository.Update(utilizador);
         }
 
@@ -167,7 +175,24 @@ namespace KarapinhaXPTO.Services
             {
                 return false;
             }
-            utilizador.EstadoUtilizador = false;
+
+            if(utilizador.EstadoUtilizador == true)
+            {
+                utilizador.EstadoUtilizador = false;
+                string assunto = "Karapinha XPTO - Perfil Administrador";
+                string menssagem = "Este acesso bloqueado." + "Aguarde o desbloqueio - KPXTO.\n" +
+                                $"Username :{utilizador.UserName}";
+                await _emailService.SendEmailAsync(utilizador.Email, assunto, menssagem);
+
+            }
+            else
+            {
+                utilizador.EstadoUtilizador = true;
+                string assunto = "Karapinha XPTO - Perfil Administrador";
+                string menssagem = "Este acesso desbloqueado." + "Aguarde a reactivação - KPXTO.\n" +
+                                $"Username :{utilizador.UserName}";
+                await _emailService.SendEmailAsync(utilizador.Email, assunto, menssagem);
+            }
             return await _utilizadorRepository.Update(utilizador);
         }
 

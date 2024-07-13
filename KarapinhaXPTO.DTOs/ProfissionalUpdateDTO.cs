@@ -16,6 +16,7 @@ namespace KarapinhaXPTO.DTOs
         public string Foto { get; set; }
         public String Telefone { get; set; }
         public int CategoriaId { get; set; }
+        
 
     }
 }

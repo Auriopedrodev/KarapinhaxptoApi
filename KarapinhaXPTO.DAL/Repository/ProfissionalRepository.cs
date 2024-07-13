@@ -15,7 +15,8 @@ namespace KarapinhaXPTO.DAL.Repository
         public ProfissionalRepository(KarapinhaContext kpXPTOcontext) : base(kpXPTOcontext)
         {
 
-
         }
+
     }
+
 }

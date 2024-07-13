@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\KarapinhaXPTO.DAL\KarapinhaXPTO.DAL.csproj" />
     <ProjectReference Include="..\KarapinhaXPTO.DTOs\KarapinhaXPTO.DTOs.csproj" />
     <ProjectReference Include="..\KarapinhaXPTO.Model\KarapinhaXPTO.Model.csproj" />
     <ProjectReference Include="..\KarapinhaXPTO.Shared\KarapinhaXPTO.Shared.csproj" />
