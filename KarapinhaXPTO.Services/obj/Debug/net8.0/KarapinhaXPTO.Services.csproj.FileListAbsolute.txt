@@ -1,0 +1,43 @@
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Services.deps.json
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Services.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Services.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.AssemblyInfoInputs.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.AssemblyInfo.cs
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.csproj.CoreCompileInputs.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\refint\KarapinhaXPTO.Services.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\ref\KarapinhaXPTO.Services.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DTOs.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Model.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Shared.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DTOs.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Model.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Shared.pdb
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.csproj.AssemblyReference.cache
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\Karapinh.29A07E31.Up2Date
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.sourcelink.json
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DAL.dll
+C:\Users\aurio\source\repos\KarapinhaXPTO.Api\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DAL.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Services.deps.json
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Services.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Services.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DAL.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DTOs.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Model.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Shared.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DAL.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.DTOs.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Model.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\bin\Debug\net8.0\KarapinhaXPTO.Shared.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.csproj.AssemblyReference.cache
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.AssemblyInfoInputs.cache
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.AssemblyInfo.cs
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\Karapinh.29A07E31.Up2Date
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\refint\KarapinhaXPTO.Services.dll
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\KarapinhaXPTO.Services.pdb
+C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.Services\obj\Debug\net8.0\ref\KarapinhaXPTO.Services.dll

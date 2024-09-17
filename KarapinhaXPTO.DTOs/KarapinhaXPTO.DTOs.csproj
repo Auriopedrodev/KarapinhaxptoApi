@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KarapinhaXPTO.Model\KarapinhaXPTO.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.DTOs\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\SAMUEL POMBAL\source\repos\KarapinhaxptoApi\KarapinhaXPTO.DTOs\.editorconfig" />
+  </ItemGroup>
+
+</Project>

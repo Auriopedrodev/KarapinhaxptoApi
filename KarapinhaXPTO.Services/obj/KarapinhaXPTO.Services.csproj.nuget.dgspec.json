@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Services\\KarapinhaXPTO.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj",
+        "projectName": "KarapinhaXPTO.DAL",
+        "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj",
+        "packagesPath": "C:\\Users\\SAMUEL POMBAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAMUEL POMBAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj"
+              },
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj",
+        "projectName": "KarapinhaXPTO.DTOs",
+        "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj",
+        "packagesPath": "C:\\Users\\SAMUEL POMBAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAMUEL POMBAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj",
+        "projectName": "KarapinhaXPTO.Model",
+        "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj",
+        "packagesPath": "C:\\Users\\SAMUEL POMBAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAMUEL POMBAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Services\\KarapinhaXPTO.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Services\\KarapinhaXPTO.Services.csproj",
+        "projectName": "KarapinhaXPTO.Services",
+        "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Services\\KarapinhaXPTO.Services.csproj",
+        "packagesPath": "C:\\Users\\SAMUEL POMBAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAMUEL POMBAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DAL\\KarapinhaXPTO.DAL.csproj"
+              },
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj"
+              },
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj"
+              },
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj",
+        "projectName": "KarapinhaXPTO.Shared",
+        "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\KarapinhaXPTO.Shared.csproj",
+        "packagesPath": "C:\\Users\\SAMUEL POMBAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAMUEL POMBAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.DTOs\\KarapinhaXPTO.DTOs.csproj"
+              },
+              "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj": {
+                "projectPath": "C:\\Users\\SAMUEL POMBAL\\source\\repos\\KarapinhaxptoApi\\KarapinhaXPTO.Model\\KarapinhaXPTO.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
