@@ -1,0 +1,10 @@
+.imagemProfissionais {
+    width: 70px; /* Defina o tamanho desejado */
+    height: 70px; /* Igual à largura para manter um círculo */
+    object-fit: cover; /* Para manter a proporção da imagem */
+    border-radius: 50%; /* Bordas arredondadas para formar um círculo */
+    border: 2px solid #212529;
+    position: relative;
+    left: 60px;
+  }
+  

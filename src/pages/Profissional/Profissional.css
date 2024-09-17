@@ -1,0 +1,16 @@
+.menuCliente button{
+    position: relative;
+    left:18px;
+
+    margin: 5px;
+}
+
+.locoCliente{
+    position: relative;
+    right: 32px;
+}
+
+.logoHome{
+    position: relative;
+    bottom: 50px;
+}

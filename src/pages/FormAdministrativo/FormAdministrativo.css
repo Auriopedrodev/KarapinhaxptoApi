@@ -1,0 +1,11 @@
+/* Adicione este arquivo para garantir tamanhos uniformes dos inputs */
+.form-control, .form-select {
+    width: 100% !important;
+    padding: 10px;
+}
+.modal-body form .col-md-6, .modal-body form .col-md-12 {
+    padding-bottom: 15px;
+}
+.btn {
+    padding: 10px 20px;
+}

@@ -1,0 +1,13 @@
+.table-custom th,
+.table-custom td {
+  padding: 0.5rem; /* Ajuste conforme necessário */
+}
+
+.iconesEditarRemover {
+  font-size: 1.5rem; /* Ajuste conforme necessário */
+}
+
+.table-custom img {
+  width: 80px; /* Ajuste conforme necessário */
+  height: 80px; /* Ajuste conforme necessário */
+}

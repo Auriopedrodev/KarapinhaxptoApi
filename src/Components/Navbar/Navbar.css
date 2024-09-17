@@ -1,0 +1,31 @@
+#navbar-example2{
+    margin-top: 5px;
+}
+
+.nav-link{
+ 
+    font-size: 22px;
+}
+
+
+.navbar-brand {
+    position: relative;
+    left: 70px;
+}
+
+
+.btn-dark {
+    font-size: 1.25rem; /* Increase button text size */
+    width: 100px;
+    height: auto;
+}
+
+.nav-item{
+    display: flex;
+    margin-left: 10px;
+    position: relative;
+    left: 600px;
+}
+
+
+

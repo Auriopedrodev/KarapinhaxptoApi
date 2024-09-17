@@ -1,0 +1,28 @@
+.customAdmin{
+  position: relative;
+  bottom: 25px;
+  width: 400px;
+  height: 200px;
+  background-color: #000000;
+  left: 20px;
+}
+
+.customTextAdmin{
+    position: relative;
+  
+}
+
+.imagemAdmin{
+    width: 100px; /* Defina o tamanho desejado */
+    height: 100px; /* Igual à largura para manter um círculo */
+    object-fit: cover; /* Para manter a proporção da imagem */
+    border-radius: 50%; /* Bordas arredondadas para formar um círculo */
+    border: 2px solid #212529;
+}
+
+i{
+  position: relative;
+  left: 0px;
+}
+
+/*   */

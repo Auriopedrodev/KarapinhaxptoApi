@@ -1,0 +1,10 @@
+.ContainerCriarConta{
+    position: relative;
+    left: 100px;
+}
+
+.btn-close{
+    position: relative;
+    left: 130px;
+    bottom:40px;
+}

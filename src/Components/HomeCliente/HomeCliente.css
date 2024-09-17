@@ -1,0 +1,13 @@
+.first img {
+    width: auto;
+    height: 405px;
+    border: 2px solid #212529;
+    border-radius: 1rem;
+    position:relative;
+    left: 3px;
+}
+
+.titlePentados {
+    position: relative;
+    right: 100px;
+}
